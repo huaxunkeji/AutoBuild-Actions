@@ -6,7 +6,7 @@
 # Modify: Hyy2001X
 #=======================================================
 
-name: AutoBuild
+name: NEWIFI_D2
 
 on: 
 #  release:
